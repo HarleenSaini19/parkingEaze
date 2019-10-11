@@ -8,11 +8,6 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="/ParkingEaze/assets/css/style.css?v=84886b5fe96374df102982752dc8aea87d2b51fb">
 
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-
-
-{"@type":"WebSite","url":"https://harleensaini19.github.io/parkingEaze/","headline":"ParkingEaze","name":"ParkingEaze","description":"Parking Eaze","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
   </head>
 
