@@ -10,12 +10,7 @@
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
 
-<meta name="description" content="Parking Eaze" />
-<meta property="og:description" content="Parking Eaze" />
-<link rel="canonical" href="https://harleensaini19.github.io/parkingEaze/" />
-<meta property="og:url" content="https://harleensaini19.github.io/parkingEaze/" />
-<meta property="og:site_name" content="ParkingEaze" />
-<script type="application/ld+json">
+
 {"@type":"WebSite","url":"https://harleensaini19.github.io/parkingEaze/","headline":"ParkingEaze","name":"ParkingEaze","description":"Parking Eaze","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
