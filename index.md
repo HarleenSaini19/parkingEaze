@@ -18,8 +18,7 @@
         <header class="inner">
           <a id="forkme_banner" href="https://harleensaini19.github.io/parkingEaze/">View on GitHub</a>
 
-          <h1 id="project_title">ParkingEaze</h1>
-          <h2 id="project_tagline">Parking Eaze</h2>
+         
 
           
         </header>
