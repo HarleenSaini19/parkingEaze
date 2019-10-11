@@ -10,10 +10,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="/ParkingEaze/assets/css/style.css?v=84886b5fe96374df102982752dc8aea87d2b51fb">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>ParkingEaze | Parking Eaze</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="ParkingEaze" />
-<meta property="og:locale" content="en_US" />
+
 <meta name="description" content="Parking Eaze" />
 <meta property="og:description" content="Parking Eaze" />
 <link rel="canonical" href="https://harleensaini19.github.io/parkingEaze/" />
@@ -78,4 +75,5 @@
 
     
   </body>
+</html>
 </html>
