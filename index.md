@@ -2,7 +2,7 @@
 
           
    <html>
-	>
+	
 	<body>
       <h1><center>Parking Eaze Project</center></h1>
       <h2><center>Parking IOT system scale model 2019-2020</center></h2>
