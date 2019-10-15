@@ -1,31 +1,8 @@
-
-
-
-<html>
-  <head>
-
-
-
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://harleensaini19.github.io/parkingEaze/">View on GitHub</a>
-
          
 
           
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <html>
-	<head>
+   <html>
+	<head>   
 		<title>Blog</title>
 	</head>
 	<body>
@@ -49,19 +26,9 @@
 	
 	</html>
 
-      </section>
-    </div>
+   
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p class="copyright">ParkingEaze maintained by <a href="https://github.com/HarleenSaini19">Harleen Kaur Saini</a></p>
-        
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
+   
     
-  </body>
+  
 
