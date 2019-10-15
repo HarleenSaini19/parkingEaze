@@ -1,11 +1,7 @@
-         
-
-          
-   <html>
-	
-	<body>
-      
-    
+ <html>
+	   
+    <body>
+ 
     <h1><center>Parking Eaze Project</center></h1>
       <h2><center>Parking IOT system scale model 2019-2020</center></h2>
          <h3><u>Oct 15th 2019(BLog #6)</u></h3>
@@ -24,6 +20,7 @@
 	<p>Repository is created</p>
 	
 	</body>
+	</html>
 
    
 
