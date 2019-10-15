@@ -2,9 +2,7 @@
 
           
    <html>
-	<head>   
-		<title>"Blog"</title>
-	</head>
+	>
 	<body>
       <h1><center>Parking Eaze Project</center></h1>
       <h2><center>Parking IOT system scale model 2019-2020</center></h2>
@@ -24,7 +22,7 @@
 		<h3><u>Sept 3rd 2019 (Blog #1)</u></h3>
 	<p>Repository is created</p>
 	
-	</html>
+	
 
    
 
