@@ -1,12 +1,9 @@
 
 
 
-
+<html>
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="/ParkingEaze/assets/css/style.css?v=84886b5fe96374df102982752dc8aea87d2b51fb">
+
 
 
   </head>
