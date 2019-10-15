@@ -22,7 +22,7 @@
 		<h3><u>Sept 3rd 2019 (Blog #1)</u></h3>
 	<p>Repository is created</p>
 	
-	
+	</html>
 
    
 
