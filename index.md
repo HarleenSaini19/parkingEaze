@@ -3,7 +3,7 @@
           
    <html>
 	<head>   
-		<title>Blog</title>
+		<title>"Blog"</title>
 	</head>
 	<body>
       <h1><center>Parking Eaze Project</center></h1>
