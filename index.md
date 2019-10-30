@@ -23,7 +23,7 @@
     <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/HarleenSaini_parkingEazeV1_bb.png" alt ="Breadboard"/></p>
 	<h3><u>Oct 1st 2019 (Blog #5)</u></h3>
 	<p><b>Proof of Purchase</b></p>
-	<p> <img src ="https://github.com/HarleenSaini19/parkingEaze/blob/master/images/Proof_Of_Purchase.PNG" alt = "Proof of Purchase"/></p>
+	<p> <img src ="https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/Proof_Of_Purchase.PNG" alt = "Proof of Purchase"/></p>
 	<h3><u>Sept 24th 2019 (Blog #4)</u></h3>
 	<p> <a href="https://github.com/HarleenSaini19/parkingEaze/blob/master/documentation/budget.xlsx">Bugdet</a></p>
 	<h3><u>Sept 17th 2019 (Blog #3 )</u></h3>
