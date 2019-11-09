@@ -6,7 +6,7 @@
    <h3><u>Nov 5th 2019(Blog #10)</u></h3>
    <p><b>Down below is my soldered PCB that has been tested and is working fine. My project is on schedule but there is some changes in my bugdet the headers which i didn't mentioned in my bugdet luckily I got from the next door i.e the prototype lab. To give more time to my  project I started working from home so I needed one monitor , keyboard, mouse and one HDMI to VGA Converter. By chance I was having mouse and a monitor at home so there was no need to buy them. Therefore, I bought HDMI to VGA converter and a keyboard. Here is the <a href="https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/proof_of_purchase_keyboard_%26_converter.PNG"> proof of purchase </a>of both the items.
     <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_backSide.jpg " alt="pcb soldering"/></p>
-    <p><img src = " https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg" alt="PCB soldering"/></p>
+    <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg " alt="PCB soldering"/></p>
 	<h3><u>Oct 29th 2019(Blog #9)</u></h3>
 	<h2>Breadboard</h2>
 	<p><b>After software installation, I made the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi</b></p>
