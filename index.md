@@ -4,7 +4,7 @@
   <body>
 	  
    <h3><u>Oct 29th 2019(Blog #10)</u></h3>
-   <p><b><Down below is my soldered PCB that has been tested and is working fine. My project is on schedule but there is some changes in my bugdet the headers which i didn't mentioned in my
+   <p><b>Down below is my soldered PCB that has been tested and is working fine. My project is on schedule but there is some changes in my bugdet the headers which i didn't mentioned in my
    bugdet luckily i got from the next door i.e the prototype lab. To give more time to my  project i started working from home so i needed one monitor , keyboard, mouse and one HDMI to VGA
    Converter. By chance i was having mouse and a monitor at home so there was no need to buy them. Therefore, i bought HDMI to VGA converter and a keyboard. Here is the  <a href=" https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/proof_of_purchase_keyboard_%26_converter.PNG"> proof of purchase </a>of both the items.</p>
     <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_backSide.jpg " alt="pcb soldering"/></p>
