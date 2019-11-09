@@ -2,7 +2,11 @@
     	<h1><center>Parking Eaze Project</center></h1>
       	<h2><center>Parking IOT system scale model 2019-2020</center></h2>
   <body>	
-	<h3><u>Oct 29th 2019(Blog #7)</u></h3>
+   <h3><u>Oct 29th 2019(Blog #10)</u></h3>
+   <p><b>
+    <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_backSide.jpg " alt="pcb soldering"/></p>
+    <p><img src = " https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg" alt="pcb soldering"/></p>
+	<h3><u>Oct 29th 2019(Blog #9)</u></h3>
 	<h2>Breadboard</h2>
 	<p><b>After software installation, I made the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi</b></p>
 	<p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/Breadboard.jpg" alt = " Breadboard Milestone"/></p>
