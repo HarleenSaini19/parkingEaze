@@ -2,7 +2,7 @@
     	<h1><center>Parking Eaze Project</center></h1>
       	<h2><center>Parking IOT system scale model 2019-2020</center></h2>
   <body>	
-   <h3><u>Oct 29th 2019(Blog #10)</u></h3>
+   <h3><u>Nov 5th 2019(Blog #10)</u></h3>
    <p><b>
     <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_backSide.jpg " alt="pcb soldering"/></p>
     <p><img src = " https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg" alt="pcb soldering"/></p>
