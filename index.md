@@ -4,9 +4,9 @@
   <body>
    <h3><u>Nov 12 2019(Blog #10)</u></h3>
    <p><b>Progress Report</b></p>
-   <p>During the soldering first I soldered the header on the opposite side of the PCB,I didn't knew this until I mounted the pcb on raspberry pi.Therefore, I resoldered it in its correct position.Secondly, while running the code in python when I compiled it dosen't showed any error but my code was not working properly. Then my instructor give me suggestion to check the Raspberry Pi GPIO pinout. Then I figured out that I was Using wrong GPIO pin. Other then these two things rest everything was working smoothly for me.</p>
+   <p>During the soldering first I soldered the header on the opposite side of the PCB,I didn't knew this until I mounted the pcb on raspberry pi.Therefore, I resoldered it in its correct position.Secondly, while running the code in python when I compiled it dosen't showed any error but my code was not working properly. Then my instructor give me suggestion to check the Raspberry Pi GPIO pinout. Then I figured out that I was using wrong GPIO pin. Other then these two things rest everything was working smoothly for me.</p>
    <p><b>PCB Power Up</b></p>
-   <p><img src =https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/PCB_PowerUP.jpg" alt = "PCB Power Up"/></p>
+   <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/PCB_PowerUP.jpg" alt = "PCB Power Up"/></p>
    <h3><u>Nov 5 2019(Blog #9)</u></h3>
    <p><b><Down below is my soldered PCB that has been tested and is working fine. My project is on schedule but there is some changes in my bugdet the headers which i didn't mentioned in my
    bugdet luckily i got from the next door i.e the prototype lab. To give more time to my  project i started working from home so i needed one monitor , keyboard, mouse and one HDMI to VGA
