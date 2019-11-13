@@ -44,5 +44,4 @@
 	<p> <a href="https://github.com/HarleenSaini19/parkingEaze/blob/master/documentation/ProposalContentHarlenKaurSainiRev03.xlsx">Proposal</a></p>
 	<h3><u>Sept 3rd 2019 (Blog #1)</u></h3>
 	<p>Repository is created</p>
-   </body>	
-</html>
+ 
