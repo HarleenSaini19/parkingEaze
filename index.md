@@ -4,7 +4,7 @@
   <body>
    <h3><u>Nov 19 2019(Blog #11)</u></h3>
    <h2>Enclosure</h2>
-   <h4>Down below is my enclosure for my pi and sensor</h4>
+   <h4>Case Design</h4>
    <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/case1.jpeg" alt = "Case image1"/></p>
    <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/case2.jpeg" alt = "Case image2"/></p>
    <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/case3.jpeg" alt = "Case image3"/></p>
