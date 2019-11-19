@@ -2,6 +2,13 @@
     	<h1><center>Parking Eaze Project</center></h1>
       	<h2><center>Parking IOT system scale model 2019-2020</center></h2>
   <body>
+   <h3><u>Nov 19 2019(Blog #11)</u></h3>
+   <h2>Enclosure</h2>
+   <p> <a href="https://github.com/HarleenSaini19/parkingEaze/blob/master/mechanical/HarleenKaurSaini_Pi3Case.cdr"> Here is the link to my corel draw </a></p>
+   <h4>Down below is my enclosure for my pi and sensor</h4>
+   <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/case1.jpeg" alt = "Case image1"/></p>
+   <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/case2.jpeg" alt = "Case image2"/></p>
+   <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/case3.jpeg" alt = "Case image3"/></p>
    <h3><u>Nov 12 2019(Blog #10)</u></h3>
    <h4><b>Progress Report</b></h4>
 <p><b>During the soldering first I soldered the header on the opposite side of the PCB,I didn't knew this until I mounted the pcb on raspberry pi.Therefore, I resoldered it in its correct position.Secondly, while running the code in python when I compiled it dosen't showed any error but my code was not working properly. Then my instructor give me suggestion to check the Raspberry Pi GPIO pinout. Then I figured out that I was using wrong GPIO pin. Other then these two things rest everything was working smoothly for me.</b></p>
