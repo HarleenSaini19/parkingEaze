@@ -2,6 +2,9 @@
     	<h1><center>Parking Eaze Project</center></h1>
       	<h2><center>Parking IOT system scale model 2019-2020</center></h2>
   <body>
+   <h3><u>Nov 26 2019(Blog #12)</u></h3>
+   <h2>Presentation<h2>
+   <p> <a href="documentation/Parking_system_ IOT_Scale_model(EK1254-IR).pptm"> Click here</a> to get the presentation file.</p>
    <h3><u>Nov 19 2019(Blog #11)</u></h3>
    <h2>Enclosure</h2>
    <h4>Case Design</h4>
