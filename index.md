@@ -35,9 +35,9 @@
 	<p><b>When their is no obstacle</b></p>
 	<p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/LED_off_when_their_is_no_obstacle.jpg" alt ="When their is no obstacle"/></p>
 	<p><b>Output Of my code</b></p>
-	<p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/Output_of_code.png" alt ="Code Output"/></p>
+	<p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/Code_output.png" alt ="Code Output"/></p>
 	<p><b>Code in Python</b></p>
-	<p><a href = "https://github.com/HarleenSaini19/parkingEaze/blob/master/firmware/python_code.py">Code</a></p>
+	<p><a href = "https://github.com/HarleenSaini19/parkingEaze/blob/master/firmware/hardware.py">Code</a></p>
     <h3><u>Oct 15th 2019(Blog #6)</u></h3>
 	<p><b>PCB</b></p>
     <p><img src = "https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/HarleenSaini_parkingEazeV1_pcb.png" alt ="PCB"/></p>
