@@ -15,7 +15,7 @@
 10. [PCB Soldering](#pcb-Soldering)
 11. [Unit Testing](#unit-Testing)
 12. [Production Testing](#production-Testing)
-13. [Resources](#resources)
+
 
 ## Introduction
 - IR Infrared Sensor can be widely used in obstacle avoidance car, line count, and black and white line tracking and so on.
@@ -30,7 +30,7 @@
 
 ## System Diagram 
 
-![systemdiagram]
+![systemdiagram](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/systemDiagram.PNG)
 
 ## Materials
 - Raspberry Pi
@@ -97,7 +97,6 @@ After all the components are connected, your PCB should look like this.
 
 ## Unit Testing
 
-
 ### Python Script
 You can use the code underneath to get the readings from your sensor:
 ![python_script](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/python_script_capture.PNG)
@@ -121,4 +120,4 @@ If you are successful in making your case, it should look like this.
 ## Production Testing
 For mass production of this sensor, there are very rare chances of any drawbacks. There could a problem while buying sensor as it could be sold out. Raspberry pi and all the other objects used in this project are easily available. One of the major information I would like to convey is that the address testing should be done because there is an addition of a connection to get the required address. The connection is that the vin has to be connected to the sensors addr.
 
-## Resources
+
