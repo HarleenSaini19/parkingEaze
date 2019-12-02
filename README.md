@@ -107,7 +107,7 @@ Running python script will get you the readings
 
 ### Enclosure
 If your raspberry pi is working with the sensor and you are getting  readings then you can go further and make your acrylic case to prevent your raspberry pi and sensor from getting damaged.
-You can use Corel Draw to make a case. [Corel Draw case design file](href="mechanical/HKSPi3Case New.cdr").
+
 
 If you are successful in making your case, it should look like this.
 ![design1](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/caseImage1.jpg)
