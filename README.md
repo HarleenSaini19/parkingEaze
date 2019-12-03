@@ -118,6 +118,6 @@ If you are successful in making your case, it should look like this.
 
 
 ## Production Testing
-For mass production of this sensor, there are very rare chances of any drawbacks. There could a problem while buying sensor as it could be sold out. Raspberry pi and all the other objects used in this project are easily available. One of the major information I would like to convey is that the address testing should be done because there is an addition of a connection to get the required address. The connection is that the vin has to be connected to the sensors addr.
+For mass production of this sensor, there are very rare chances of any drawbacks. There could be a problem while buying sensor as it could be sold out. Raspberry pi and all the other objects used in this project are easily available.
 
 
