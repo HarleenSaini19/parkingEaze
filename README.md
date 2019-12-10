@@ -16,6 +16,7 @@
 11. [Power Up](#power-up)
 12. [Unit Testing](#unit-Testing)
 13. [Production Testing](#production-Testing)
+14. [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -120,5 +121,8 @@ If you are successful in making your case, it should look like this.
 
 ## Production Testing
 For mass production of this sensor, there are very rare chances of any drawbacks.The PCBs will be mass soldered and will be tested for connectivity at the end of the production line using a simple resistance test.For mass production testing it can be easily tested as when you will connect your sensor to raspberry pi without running the code you can see if there is any object which is in the range of the sensor the led of the sensor will glow this will tells you that you have done your soldering accurately.
+
+## Conclusion
+The project is easily reproducible by following the instructions. The project can be done using an Arduino, which costs less than the Raspberry Pi, however the steps that will be taken to create this project will be way different than the instructions explained above.
 
 
