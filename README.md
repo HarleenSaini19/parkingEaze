@@ -1,8 +1,8 @@
 # Ek1254 -IR Infrared Sensor
-# Purpose
-- The purpose of this project is to reduce parking problems using Ek1254 sensor. Ek1245 infrared sensor will detect if there is any car parked in the parking spot.
 
 <img src="https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/caseImage1.jpg" width="500" height="500">
+# Purpose
+- The purpose of this project is to reduce parking problems using Ek1254 sensor. Ek1245 infrared sensor will detect if there is any car parked in the parking spot.
 
 ## Table of Contents
 1. [Introduction](#introduction)
