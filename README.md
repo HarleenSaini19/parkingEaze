@@ -44,7 +44,7 @@
 ![capture](https://github.com/HarleenSaini19/parkingEaze/blob/master/images/Bugdet_Capture.PNG)
 
 ## Time Commitment
-This project can be done in a week if one gives 2-3 hours a day. It will take about 2 to 4 days to recieve the parts. If you want to skip breadboarding then you can get started with the soldering which would take about 10 minutes but testing can take about 3-4 hours. After soldering is tested, it should take one more 1-2 hours to power up the PCB and run the python script and get the readings.
+This project can be done in a week if one gives 2-3 hours a day. It will take about 2 to 4 days to recieve the parts. If you want to skip breadboarding then you can get started with the soldering which would take about 10 minutes but testing can take about 3-4 hours. After soldering is tested, it should take about 1-2 hours to power up the PCB and run the python script and get the readings.
 
 ## Setting up Raspberry Pi
 First step after getting your raspberry pi is to set it up. Follow the steps below:
@@ -119,6 +119,6 @@ If you are successful in making your case, it should look like this.
 
 
 ## Production Testing
-For mass production of this sensor, there are very rare chances of any drawbacks. There could be a problem while buying sensor as it could be sold out. Raspberry pi and all the other objects used in this project are easily available.
+For mass production of this sensor, there are very rare chances of any drawbacks.The PCBs will be mass soldered and will be tested for connectivity at the end of the production line using a simple resistance test.For mass production testing it can be easily tested as when you will connect your sensor to raspberry pi without running the code you can see if there is any object which is in the range of the sensor the led of the sensor will glow this will tells you that you have done your soldering accurately.
 
 
