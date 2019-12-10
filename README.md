@@ -37,7 +37,7 @@
 - [Raspberry Pi](https://www.amazon.ca/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BD56DW5/ref=sr_1_4?crid=1KYA5VN1D2732&keywords=raspberry+pi+3+starter+kit&qid=1576001973&s=electronics&sprefix=raspberry+pi+3+st%2Celectronics%2C150&sr=1-4) 
 - [Ek1245](https://www.amazon.ca/gp/product/B07FFM7DYQ/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) -IR Infrared Sensor
 - Breadboard and [jumper wires](https://www.amazon.ca/dp/B01M1IEUAF/ref=dp_cerb_1) for initial testing
-- Socket Header to attach sensor and pi together on [PCB](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg)
+- [Socket Header](https://www.amazon.ca/gp/product/B07CWSXY7P/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) to attach sensor and pi together on [PCB](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg)
 - Case to hold ciruit together and prevent it from damage.Here is design of my [case](https://github.com/HarleenSaini19/parkingEaze/blob/master/mechanical/HKSPi3Case%20New.cdr).You can also check acrylic cases [here](https://www.thingiverse.com/search?q=raspberry+pi+3+laser&dwh=445defe2659844c).
 
 ## Budget
