@@ -1,4 +1,4 @@
-# Ek1245 -IR Infrared Sensor
+# Ek1254 -IR Infrared Sensor
  
 <img src="https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/caseImage1.jpg" width="500" height="500">
 
