@@ -37,7 +37,7 @@
 - Raspberry Pi 
 - Ek1245 -IR Infrared Sensor
 - Breadboard and jumper wires for initial testing
-- Socket Header to attach sensor and pi together on [PCB]![fritz_pcb](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/HarleenSaini_parkingEazeV1_pcb.png)
+- Socket Header to attach sensor and pi together on [PCB](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/HarleenSaini_parkingEazeV1_pcb.png)
 - Case to hold ciruit together and prevent it from damage
 
 ## Budget
