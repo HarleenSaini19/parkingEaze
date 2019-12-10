@@ -13,8 +13,9 @@
 8. [Hardware Testing](#hardware-Testing)
 9. [Mechanical Assembly](#mechanical-Assembly)
 10. [PCB Soldering](#pcb-Soldering)
-11. [Unit Testing](#unit-Testing)
-12. [Production Testing](#production-Testing)
+11. [Power Up](#power-up)
+12. [Unit Testing](#unit-Testing)
+13. [Production Testing](#production-Testing)
 
 
 ## Introduction
@@ -91,7 +92,7 @@ After soldering my pcb, it looks like this:
 ![pcb](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg)
 there are socket headers to connect raspberry pi and sensor to the pcb.
 
-### Power Up
+## Power Up
 After all the components are connected, your PCB should look like this.
 ![PCB_PowerUP](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/PCB_PowerUP.jpg) 
 
