@@ -34,10 +34,10 @@
 ![systemdiagram](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/systemDiagram.PNG)
 
 ## Materials
-- Raspberry Pi
+- Raspberry Pi 
 - Ek1245 -IR Infrared Sensor
 - Breadboard and jumper wires for initial testing
-- Socket Header to attach sensor and pi together on PCB
+- Socket Header to attach sensor and pi together on [PCB]![fritz_pcb](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/HarleenSaini_parkingEazeV1_pcb.png)
 - Case to hold ciruit together and prevent it from damage
 
 ## Budget
@@ -118,7 +118,7 @@ while True:
         print("Parking Slot filled")
 		sleep(1)
 ```
-![python_script](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/python_script_capture.PNG)
+
 
 ### Final Testing
 Running python script will get you the readings
