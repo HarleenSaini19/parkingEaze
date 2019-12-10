@@ -1,22 +1,23 @@
 # Ek1254 -IR Infrared Sensor
- 
+# Purpose
+- The purpose of this project is to reduce parking problems using Ek1254 sensor. Ek1245 infrared sensor will detect if there is any car parked in the parking spot.
+
 <img src="https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/caseImage1.jpg" width="500" height="500">
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Purpose](#purpose)
-3. [System Diagram](#system-Diagram)
-4. [Materials](#materials)
-5. [Budget](#budget)
-6. [Time Commitment](#time-Commitment)
-7. [Setting up Raspberry Pi](#setting-Up-Raspberry-Pi)
-8. [Hardware Testing](#hardware-Testing)
-9. [Mechanical Assembly](#mechanical-Assembly)
-10. [PCB Soldering](#pcb-Soldering)
-11. [Power Up](#power-up)
-12. [Unit Testing](#unit-Testing)
-13. [Production Testing](#production-Testing)
-14. [Conclusion](#conclusion)
+2. [System Diagram](#system-Diagram)
+3. [Materials](#materials)
+4. [Budget](#budget)
+5. [Time Commitment](#time-Commitment)
+6. [Setting up Raspberry Pi](#setting-Up-Raspberry-Pi)
+7. [Hardware Testing](#hardware-Testing)
+8. [Mechanical Assembly](#mechanical-Assembly)
+9. [PCB Soldering](#pcb-Soldering)
+10. [Power Up](#power-up)
+11. [Unit Testing](#unit-Testing)
+12. [Production Testing](#production-Testing)
+13. [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -26,8 +27,6 @@
 - It has a pair of infrared transmitting and receiving tube, tube infrared emit a certain frequency, when detecting direction meet with obstacles (reflecting surface), reflected infrared receiving tube, after the comparator circuit processing, green indicator will light up, at the same time signal output interface to output digital signal (a low level signal).
 - Can be used for 3-5V DC power supply modules. It has red power indicator.
 
-## Purpose
-- The purpose of this project is to reduce parking problems using Ek1254 sensor. Ek1245 infrared sensor will detect if there is any car parked in the parking spot.
 
 
 ## System Diagram 
@@ -101,6 +100,24 @@ After all the components are connected, your PCB should look like this.
 
 ### Python Script
 You can use the code underneath to get the readings from your sensor:
+```
+import RPi.GPIO as GPIO
+from time import sleep
+
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(4,GPIO.IN)
+
+
+while True:
+    sensor = GPIO.input(4)
+    if sensor ==1:
+        print("Parking Slot Available")
+        sleep(1)
+
+    elif sensor ==0:
+        print("Parking Slot filled")
+		sleep(1)
+```
 ![python_script](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/python_script_capture.PNG)
 
 ### Final Testing
