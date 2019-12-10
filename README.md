@@ -39,6 +39,7 @@
 - Breadboard and [jumper wires](https://www.amazon.ca/dp/B01M1IEUAF/ref=dp_cerb_1) for initial testing
 - [Socket Header](https://www.amazon.ca/gp/product/B07CWSXY7P/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) to attach sensor and pi together on [PCB](https://raw.githubusercontent.com/HarleenSaini19/parkingEaze/master/images/pcb_frontSide.jpg).For production export it to the gerber files. 
 - Case to hold ciruit together and prevent it from damage.Here is design of my [case](https://github.com/HarleenSaini19/parkingEaze/blob/master/mechanical/HKSPi3Case%20New.cdr).You can also check acrylic cases [here](https://www.thingiverse.com/search?q=raspberry+pi+3+laser&dwh=445defe2659844c).
+--These things might take time to deliver so make sure you order everything before.
 
 ## Budget
 ![capture](https://github.com/HarleenSaini19/parkingEaze/blob/master/images/Bugdet_Capture.PNG)
